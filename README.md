@@ -9,10 +9,10 @@ A Blender add-on to download, install and swap between different versions of `Bl
 ## Download & Install
 
 1. Make sure you have installed [Blender 3.0](https://www.blender.org/download/) or higher;
-2. Download the [latest release](https://github.com/open-stage/blender-dmx-vm/releases/latest) `dmx-vm.zip` file
+2. Download the [latest release](https://github.com/open-stage/blender-dmx-vm/releases/latest) `zip` file
 3. Open Blender
 4. `Edit > Preferences > Add-ons > Install`
-5. Pick the addon `dmx-vm.zip` file
+5. Pick the addon `zip` file
 
 ## How to Use
 
