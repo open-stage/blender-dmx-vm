@@ -21,3 +21,5 @@ After enabling the add-on, use the `3D View` panel to manage your `Blender DMX` 
 ![image](https://user-images.githubusercontent.com/2349393/223345959-ec28c56f-cf96-416e-a101-24ed45ab1a19.png)
 
 > :warning: **Avoid changing versions with a lodaded show**: In some cases it works, in some cases not. To be safe, only click the "Use" button on a new file, before clicking "Create New Show". This might be fixed in future versions of the manager.
+
+In case the panel annoys you, you can disable the Add-on after updating your version.
