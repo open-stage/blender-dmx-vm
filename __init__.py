@@ -2,7 +2,7 @@ bl_info = {
     "name": "DMX Version Manager",
     "description": "Manage Blender DMX Version",
     "author": "Open Stage",
-    "version": (1, 0, 0),
+    "version": (1, 0, 1),
     "blender": (3, 0, 0),
     "location": "3D View > DMX Version Manager",
     "warning": "", # used for warning icon and text in addons panel

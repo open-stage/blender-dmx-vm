@@ -57,8 +57,10 @@ class Manager:
     def is_blenderdmx_installed():
         path = Manager._dmx_path()
         path_exists = os.path.exists(path)
+        if not path_exists:
+            return False
         path_empty = len(os.listdir(path)) == 0
-        return path_exists and not path_empty
+        return not path_empty
 
     @staticmethod
     def get_active_version_tag():
